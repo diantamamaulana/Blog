@@ -1,0 +1,21 @@
+.jumbotron{
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.jumbotron img{
+	width: 600px;
+	
+}
+
+.jumbotron p{
+	color: #fff;
+}
+.jumbotron h1{
+	color: #fff;
+}
+.jumbotron h4{
+	color: #fff;
+}
